@@ -1,0 +1,6 @@
+# ninja log v5
+11	462	7317212216461504	CMakeFiles/lab_cpp.dir/include/Fox.cpp.obj	34a3d5e907cff1be
+4	398	7317217250712335	CMakeFiles/lab_cpp.dir/main.cpp.obj	4a4e6d4edf7e0fc5
+7	393	7317208546485459	CMakeFiles/lab_cpp.dir/include/Animal.cpp.obj	bf452a8c7677c9ec
+7	443	7317212216250605	CMakeFiles/lab_cpp.dir/include/Dog.cpp.obj	b3bd384d7326f8f8
+398	468	7317217251380885	lab_cpp.exe	61f6549c2a133b6d
