@@ -14,10 +14,10 @@ public:
     Animal(Animal&& object) noexcept = default;
     virtual ~Animal();
 
-    float getMass() const { return mass; }
-    char* getSex() const { return sex; }
-    char* getColor() const { return color; }
-    int getAge() const { return age; }
+    float GetMass() const { return mass; }
+    char* GetSex() const { return sex; }
+    char* GetColor() const { return color; }
+    int GetAge() const { return age; }
 
     void SetMass(float m) { mass = m; }
     void SetAge(int a) { age = a; }

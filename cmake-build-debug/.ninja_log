@@ -4,3 +4,10 @@
 7	393	7317208546485459	CMakeFiles/lab_cpp.dir/include/Animal.cpp.obj	bf452a8c7677c9ec
 7	443	7317212216250605	CMakeFiles/lab_cpp.dir/include/Dog.cpp.obj	b3bd384d7326f8f8
 398	468	7317217251380885	lab_cpp.exe	61f6549c2a133b6d
+16	557	7317247952510368	CMakeFiles/lab_cpp.dir/include/Dog.cpp.obj	9c5e9ccfd31f96bf
+9	561	7317247952556717	CMakeFiles/lab_cpp.dir/include/Animal.cpp.obj	50779052a32c391
+12	570	7317247952642591	CMakeFiles/lab_cpp.dir/include/Fox.cpp.obj	cb834350cf671391
+3	590	7317247952865096	CMakeFiles/lab_cpp.dir/main.cpp.obj	85698a36fcce01d7
+593	669	7317247953612879	lab_cpp.exe	61f6549c2a133b6d
+3	394	7317248106438690	CMakeFiles/lab_cpp.dir/main.cpp.obj	85698a36fcce01d7
+394	465	7317248107113636	lab_cpp.exe	61f6549c2a133b6d

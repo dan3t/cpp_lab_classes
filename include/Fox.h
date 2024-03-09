@@ -1,4 +1,4 @@
-#include "Animal.h"
+#include "Dog.h"
 
 enum TypeFox {
     RED_FOX,
